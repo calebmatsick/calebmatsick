@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**calebmatsick/calebmatsick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Computer Science student at Liberty University
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Studying!
+
+##### BIO
+
+- 🏢 I'm currently working a student looking for summer internships.
+- ⚙️ My most used tech is: `Python`, `Linux`, `Windows Server`, `C`, 
+- 🌱 Learning all about **Cybersecurity**
+- 📫 Reach me: [www.caleb.matsick.com](www.caleb.matsick.com)
+- ⚡️ Fun fact: I love rock climbing
