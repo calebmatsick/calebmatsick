@@ -4,12 +4,12 @@
 
 ##### NOW
 
-- 💬 Studying!
+- 💬 Working!... Or working out
 
 ##### BIO
 
-- 🏢 I'm currently working a student looking for summer internships.
-- ⚙️ My most used tech is: `Python`, `Linux`, `Windows Server`, `C`, 
+- 🏢 I'm currently working at Principal Financial for the summer.
+- ⚙️ My most used tech is: `Python`, `Linux`, `Windows Server`, and `GO`, 
 - 🌱 Learning all about **Cybersecurity**
 - 📫 Reach me: [www.caleb.matsick.com](www.caleb.matsick.com)
-- ⚡️ Fun fact: I love rock climbing
+
