@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-#### I'm a Computer Science student at Liberty University
+#### Check out some of the random stuff I'm working on!
 
 ##### NOW
 
