@@ -8,7 +8,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at Principal Financial Group as a Security Engineer Intern for the summer.
-- ⚙️ My most used tech is: `Python`, `Linux`, `Windows Server`, and `GO`, 
-- 🌱 Learning all about **Cybersecurity**
-- 📫 Reach me: [www.matsick.com](www.matsick.com)
+- 🏢 I'm currently working at Principal Financial Group as a Security Engineer.
+- ⚙️ My most used tech is: `Rust`, `Go`, and `WSL`. 
+- 🌱 Learning all about **Interpreters**
+- 📫 Reach me: [matsick.com](https://matsick.com)
